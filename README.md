@@ -1,3 +1,8 @@
+State
+======
+ARCHIVED, check [this repository](https://github.com/kvaes/Storage-Benchmarker-Backend-2017) for updated version
+
+
 Author
 ======
 * Karim Vaes
